@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timofagiano
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on diferents project & products 
 - 📫 How to reach me to agufagiano@gmail.com
 - 😄 Pronouns: we are but shadows and dust, motionless on ship of life
